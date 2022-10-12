@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @codePriestFunzi
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning HTML, CSS, JS and React
+- 🌱 Proficient in HTML, CSS, JS and Tailwind CSS
+- 🌱 I’m React and Node Js
 - 💞️ I’m looking to collaborate on projects and also internship
 - 📫 How to reach me gfunz56@gmail.com
 
