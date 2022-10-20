@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codePriestFunzi
 - 👀 I’m interested in Full Stack Development
-- 🌱 Proficient in Ms-Word, Excel, HTML, CSS, JS , Git and Tailwind CSS
+- 🌱 Proficient in Ms-Word, Excel, HTML, CSS, JS ,React JS, Git and Tailwind CSS
 - 🌱 I’m currently learning ReactJs and Node Js
 - 💞️ I’m looking to collaborate on projects and also internship
 - 📫 Reach me @ gfunz56@gmail.com
